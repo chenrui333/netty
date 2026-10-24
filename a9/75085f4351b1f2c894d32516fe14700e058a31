@@ -1,0 +1,16 @@
+pom.xml
+  h_9df9c32c3f321d 199-220
+transport-blockhound-tests/pom.xml
+  h_9df9c32c3f321d 161-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a975085f4351b1f2c894d32516fe14700e058a31",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
